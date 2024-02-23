@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/sotus10/sotus10/blob/main/Professional%20LinkedIn%20Banner.png)
+![Juan Diego Singh Banner](https://github.com/sotus10/sotus10/blob/main/Professional%20LinkedIn%20Banner.png)
 
 <h2>Hey there! I'm sotus10</h2>
 
@@ -35,7 +35,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
