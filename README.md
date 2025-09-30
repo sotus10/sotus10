@@ -39,7 +39,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- 
+ [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juan-diego-soto-garzon/)
  
 <br>
 
